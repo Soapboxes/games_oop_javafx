@@ -6,15 +6,15 @@ If you have any suggestions about this project, please, creating a new GitHub is
 
 ## Snake
 
-![ScreenShot](images/Snake.png)
+![ScreenShot](C:\projects\games_oop_javafx\images\Snake.png)
 
 ## TicTacToe
 
-![ScreenShot](images/TicTacToe.png)
+![ScreenShot](C:\projects\games_oop_javafx\images\TicTacToe.png)
 
 ## Chess
 
-![ScreenShot](images/Chess.png)
+![ScreenShot](C:\projects\games_oop_javafx\images\Chess.png)
 
 ## TODO
 
